@@ -1,8 +1,8 @@
 {
 	"format_version": 2,
 	"header": {
-		"name": "Chest UI",
-		"description": "Chest UI",
+		"name": "Sky kiwi UI",
+		"description": "A chest UI plugin for Sky kiwi skyblock",
 		"uuid": "ebb80f49-f27e-4da7-db55-cc166d3aa425",
 		"version": [ 1, 0, 0 ],
 		"min_engine_version": [ 1, 18, 0 ]
@@ -23,8 +23,8 @@
 	],
 	"metadata": {
 		"authors": [
-			"Herobrine64#3928",
-			"LeGend077"
+			"Kawiichan8123",
+			".ut8"
 		]
 	},
 	"dependencies": [
